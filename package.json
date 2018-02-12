@@ -13,6 +13,7 @@
   "author": "Tayutaedomo <tayutaedomo@gmail.com>",
   "homepage": "https://github.com/tayutaedomo/node-js-google-calendar-api#readme",
   "dependencies": {
+    "bluebird": "^3.5.1",
     "google-auth-library": "^0.12.0",
     "googleapis": "^20.1.0"
   }
